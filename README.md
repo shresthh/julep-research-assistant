@@ -1,6 +1,6 @@
 # Julep Research Assistant
 
-A FastAPI-based web service that uses Julep AI to provide research assistance on various topics.
+A FastAPI-based web service **AGENT** that uses Julep AI to provide research assistance on various topics.
 
 ## Features
 
